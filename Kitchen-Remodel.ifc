@@ -1,7 +1,7 @@
 ISO-10303-21;
 HEADER;
 FILE_DESCRIPTION(('ViewDefinition[DesignTransferView]'),'2;1');
-FILE_NAME('Kitchen-Remodel.ifc','2024-10-02T22:27:08-04:00',$,$,'IfcOpenShell 0.8.0','Bonsai 0.8.0','Nobody');
+FILE_NAME('Kitchen-Remodel.ifc','2024-10-02T23:24:44-04:00',$,$,'IfcOpenShell 0.8.0','Bonsai 0.8.0','Nobody');
 FILE_SCHEMA(('IFC4'));
 ENDSEC;
 DATA;
